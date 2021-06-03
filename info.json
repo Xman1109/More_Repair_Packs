@@ -1,0 +1,10 @@
+{
+  "name": "More_Repair_Packs",
+  "version": "1.0.0",
+  "title": "More Repair Packs",
+  "description": "Adds new cool Repair Packs!",
+  "contact": "X_Man1109#6160",
+  "author": "X_Man1109",
+  "factorio_version": "1.1",
+  "dependencies": ["base"]
+}
