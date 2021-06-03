@@ -3,7 +3,7 @@ data:extend({
     {
             type = "technology",
             name = "multitool-repair-tech",
-            icon = "__More_Repair_Packs__/graphics/items/multitool-repair-pack.png",
+            icon = "__More_Repair_Packs__/graphics/items/Multitool-repair-pack.png",
             icon_size = "63",
             prerequisites = {"utility-science-pack", "field-repair-tech"},
             effects =

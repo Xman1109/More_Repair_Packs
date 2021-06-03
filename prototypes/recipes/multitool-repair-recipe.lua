@@ -3,7 +3,7 @@ data:extend(
     {
       type = "recipe",
       name = "multitool-repair-recipe",
-      icon = "__More_Repair_Packs__/graphics/items/multitool-repair-pack.png",
+      icon = "__More_Repair_Packs__/graphics/items/Multitool-repair-pack.png",
       icon_size = 63,
       enabled = false,
       category = "crafting",
