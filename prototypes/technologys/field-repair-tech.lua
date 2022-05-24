@@ -4,7 +4,8 @@ data:extend({
             type = "technology",
             name = "field-repair-tech",
             icon = "__More_Repair_Packs__/graphics/items/field-repair-pack.png",
-            icon_size = "63",
+            icon_size = 64,
+            icon_mipmaps = 4,
             prerequisites = {"chemical-science-pack", "steel-repair-tech"},
             effects =
             {

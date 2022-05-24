@@ -1,0 +1,1 @@
+require("prototypes.vanilla-changes.items")
