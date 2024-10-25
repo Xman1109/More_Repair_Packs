@@ -13,11 +13,11 @@ data:extend(
       order = "d",
       ingredients =
       {
-        {"plastic-bar", 4},
-        {"advanced-circuit", 2},
+        {type="item", name="plastic-bar", amount=4},
+        {type="item", name="advanced-circuit", amount=2},
       },
       energy_required = 5,
-      result = "field-repair-pack"
-    } 
+      results = {{type="item", name="field-repair-pack", amount=1}}
+    }
   }
 )

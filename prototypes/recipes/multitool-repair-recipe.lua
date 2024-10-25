@@ -13,11 +13,11 @@ data:extend(
       order = "e",
       ingredients =
       {
-        {"low-density-structure", 4},
-        {"processing-unit", 2},
+        {type="item", name="low-density-structure", amount=4},
+        {type="item", name="processing-unit", amount=2},
       },
       energy_required = 10,
-      result = "multitool-repair-pack"
+      results = {{type="item", name="multitool-repair-pack", amount=1}}
     }
   }
 )

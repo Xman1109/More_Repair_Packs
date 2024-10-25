@@ -13,11 +13,11 @@ data:extend(
       order = "c",
       ingredients =
       {
-        {"steel-plate", 4},
-        {"electronic-circuit", 2},
+        {type="item", name="steel-plate", amount=4},
+        {type="item", name="electronic-circuit", amount=2},
       },
       energy_required = 5,
-      result = "steel-repair-pack"
-    } 
+      results = {{type="item", name="steel-repair-pack", amount=1}}
+    }
   }
 )
