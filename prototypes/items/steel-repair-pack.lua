@@ -10,7 +10,7 @@ data:extend(
             order = "c",
             speed = 1.5,
             durability = 600,
-            stack_size = 200
+            stack_size = 100
         }
     }
 )

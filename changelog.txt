@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2025-02-02
+  Changes:
+    - Updated translations voa crowdin (thanks to all translators)
+    - Copper repair pack now requires "repair-pack" technology to be researched
+    - fixed missing translation-strings
+    - updated mod-portal page
+    - automatic lua document formatting
+    - technology icons are now properly scaled
+---------------------------------------------------------------------------------------------------
 Version: 1.0.5
 Date: 2024-11-10
   Changes:
