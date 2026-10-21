@@ -7,7 +7,7 @@ data:extend(
       icon_size = 64,
       icon_mipmaps = 4,
       enabled = false,
-      category = "crafting",
+      categories = { "crafting" },
       group = "production",
       subgroup = "tool",
       order = "c",
