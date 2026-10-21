@@ -1,10 +1,10 @@
 {
   "name": "More_Repair_Packs",
-  "version": "1.0.7",
+  "version": "2.1.0",
   "title": "More Repair Packs",
   "description": "Adds 4 new Repair Packs!\n- Copper Repair Pack (alternative to the normal Repair Pack)\n- Steel Repair Pack\n- Field/Plastic Repair Pack\n- The Multitool",
   "contact": "x_man1109",
   "author": "X_Man1109",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": ["base"]
 }
